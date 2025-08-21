@@ -24,10 +24,10 @@
   <a href="https://github.com/qahnus02" target="_blank"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
   </a>
-  <a href="mailto:yourfriend@email.com"> 
+  <a href="mailto:qutbiddinovsamandar@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
-  <a href="https://t.me/your-friend-telegram"> 
+  <a href="https://t.me/Alhamdulillah_2021_2120"> 
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> 
   </a>
   <a href="https://www.linkedin.com/in/your-friend-linkedin" target="_blank"> 
